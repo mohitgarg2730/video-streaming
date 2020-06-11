@@ -11,3 +11,72 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.logo
+{
+   margin-left: 10px;
+   height: 43px;
+    width: 70px;
+}
+.homepageheading
+{
+
+  background-image: linear-gradient(to right, black 50% ,#fefefe12);
+}
+.homeheading {
+  margin-top: 17px;
+  padding: 93px;
+  height: 500px;  
+}
+.heading-content {
+  font-weight: 100;
+  
+}
+.banner
+{
+  position: absolute;
+  width: 97%;
+  height : 97%;
+  z-index: -1 ;
+ 
+ 
+
+  /* //background-image: url(./Images/bannermovies.jpg); */
+
+}
+
+
+
+.b2{
+  
+background-color:   #031717 ; 
+height: 615px;
+}
+.signin
+{
+  background-image: linear-gradient(to right, black 13% ,#fefefe12);
+  width: 535px;
+    
+
+}
+input[type="radio"]{
+  -webkit-appearance: none;
+}
+.l1{
+ 
+  width: 128px !important;
+  height: 42px !important;
+  padding-top: 1px !important;
+}
+
+.container-fluid.c1 {
+  height: 620px;
+}
+.signini  
+{
+  background-image: linear-gradient(to right, black 13% ,#fefefe12);
+  width: 526px;
+  height: 526px;
+  padding-top: 76px !important;
+    
+
+}
